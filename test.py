@@ -6,3 +6,4 @@ if a > 10:
     print("10 se greater")
 else:
     print("Not 10")
+print("Hello")
